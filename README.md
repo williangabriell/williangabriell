@@ -4,7 +4,7 @@
 [![E-mail](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:willianlopes20@hotmail.com)
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williangabriell&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williangabriell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
