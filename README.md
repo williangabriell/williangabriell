@@ -21,4 +21,4 @@ Cynthia Kerse.
 
 ## Últimos projetos:
 - [Tabela da copa do mundo 2022](https://williangabriell.github.io/tabela-copa/)<br/>
-- [Habits](https://github.com/williangabriell/nlw-setup)<br/>
+- [Habits](https://williangabriell.github.io/nlw-setup/)<br/>
