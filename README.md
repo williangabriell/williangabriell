@@ -20,5 +20,5 @@ Apaixonado por tecnologia, aprendendo um dia de cada vez.
 Cynthia Kerse.
 
 ## Últimos projetos:
-- [Tabela da copa do mundo 2022](https://williangabriell.github.io/tabela-copa/https://williangabriell.github.io/tabela-copa/)<br/>
-- [Sacola API para Servir uma Aplicação com Domínio de Delivery](https://github.com/williangabriell/sacola-api_IFOOD_DEV_WEEK)<br/>
+- [Tabela da copa do mundo 2022](https://williangabriell.github.io/tabela-copa/)<br/>
+- [Habits]((https://github.com/williangabriell/nlw-setup))<br/>
