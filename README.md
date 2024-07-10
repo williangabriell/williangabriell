@@ -4,10 +4,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williangabriell&layout=compact&theme=dark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
 </div>
 
 ##
