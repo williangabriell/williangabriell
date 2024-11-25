@@ -5,11 +5,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-  <img align="center" alt="TAILWIND" height="30" width="90" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="TAILWIND" height="20" width="110" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 </div>
 
 ##
